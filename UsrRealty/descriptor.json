@@ -1,0 +1,23 @@
+﻿{
+  "Descriptor": {
+    "UId": "d7bc91f0-2a81-4ba2-af9f-88550f062f73",
+    "Name": "UsrRealty",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1681981409000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrRealty.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      },
+      {
+        "UId": "3a329ede-743f-859e-53a2-6e2f67efc427",
+        "Name": "MinsterLawDemo",
+        "Type": 1
+      }
+    ]
+  }
+}
